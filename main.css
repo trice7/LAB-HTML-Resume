@@ -1,3 +1,109 @@
 body {
-  background-color: aqua;
+  background-image: url("https://www.shutterstock.com/image-vector/man-woman-business-organization-circle-260nw-1500471572.jpg")
+}
+
+.card {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-size: 15px;
+  text-shadow: 0px 0px 1px;
+}
+
+h1 {
+  margin-bottom: 3px;
+}
+
+p {
+  font-size: 15px;
+}
+
+h2 {
+  color: gray;
+  border-bottom: 2px solid gray;
+  background-color: whitesmoke;
+}
+
+.jobexp1 {
+  border: 3px solid black;
+  padding: 2px;
+  font-family: 'Courier New', Courier, monospace;
+  background-color: beige;
+  margin-top: 35px;
+}
+
+.jobexp2 {
+  border: 3px dotted blue;
+  padding: 2px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: beige;
+  margin-top: 35px;
+  background-color: beige;
+  margin-top: 35px;
+}
+
+.jobexp3{
+  border: 3px dashed red;
+  padding: 2px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  background-color: beige;
+  margin-top: 35px;
+}
+
+.jobexp3{
+  border: 3px double purple;
+  padding: 2px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  background-color: beige;
+  margin-top: 35px;
+}
+
+.jobexp4{
+  border: 3px double aqua;
+  padding: 2px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: beige;
+  margin-top: 35px;
+}
+
+.jobexp5{
+  border: 3px dashed burlywood;
+  padding: 2px;
+  font-family: 'Times New Roman', Times, serif;
+  background-color: beige;
+  margin-top: 35px;
+}
+
+.jobexp6{
+  border: 3px solid violet;
+  padding: 2px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  background-color: beige;
+  margin-top: 35px;
+}
+
+.jobexp7{
+  border: 3px double cornflowerblue;
+  padding: 2px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  background-color: beige;
+  margin-top: 35px;
+}
+
+.companyinfo{
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-size: 13px;
+  color:  indianred;
+}
+
+.jobtitle{
+  margin-bottom: 3px;
+}
+
+h3{
+  color: royalblue;
+}
+
+.skills{
+  background-color: beige;
 }
